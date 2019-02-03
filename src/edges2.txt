@@ -1,0 +1,15 @@
+Source a 10
+Source b 5
+Source c 15
+a d 9
+a e 15
+a b 4
+b e 8
+b c 4
+c f 16
+d e 15
+d Sink 10
+e Sink 10
+e f 15
+f b 6
+f Sink 10
